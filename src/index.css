@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+
+header {
+  background-color: gray;
+  padding: 2rem 0.5rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn-section {
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+}
+
+.card {
+  padding: 1rem;
+  width: 80%;
+  margin-top: 2rem;
+  
+}
